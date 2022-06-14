@@ -18,7 +18,7 @@ Tell me your favorite movie.
 - Kokuhaku（告白）
 - Catch me if you can
 - The Dark Knight
-
+- Kimino Suizo Wo Tabetai
 
 (add your favorite movie!))
 
