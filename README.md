@@ -18,6 +18,7 @@ Tell me your favorite movie.
 - Kokuhaku（告白）
 - Catch me if you can
 - The Dark Knight
+- Teiichi no kuni
 
 
 (add your favorite movie!))
