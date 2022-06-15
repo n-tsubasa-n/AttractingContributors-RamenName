@@ -22,7 +22,5 @@ Tell me your favorite movie.
 - Teiichi no kuni
 - Inception
 - Kimino Suizo Wo Tabetai
-
-
-(add your favorite movie!))
+- Midsommar
 
