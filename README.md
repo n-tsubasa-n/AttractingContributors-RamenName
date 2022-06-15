@@ -24,4 +24,3 @@ Tell me your favorite movie.
 - Kimino Suizo Wo Tabetai
 - Midsommar
 
-(add your favorite movie!))
