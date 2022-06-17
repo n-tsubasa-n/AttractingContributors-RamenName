@@ -32,3 +32,4 @@ What is the name of the noodle shop you recommend?<br>
 - Joroku（丈六）, Namba
 - 元喜神
 - ジャン哲
+- おしたに
