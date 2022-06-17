@@ -32,3 +32,4 @@ ex) Starbucks, Doutor, Maruyama Coffee, Rokumei Coffee...
 * Seven-Eleven
 * 珈琲美美(Cafe Bimi)
 * TULLY'S COFFEE
+* ROKUMEI COFFEE CO. NARA
