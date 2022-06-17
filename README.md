@@ -21,7 +21,7 @@ Please teach me your favorite McDonald's menu
 # List of Menu
 1.ポテト(S)  
 2.チキン マクナゲット(15 ピース)  
-3.ハッシュポテト
+3.ハッシュポテト  
 4.マックポーク  
 5.ハンバーガー  
 6.グランドビックマック  
