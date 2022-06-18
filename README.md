@@ -33,3 +33,4 @@ What is the name of the noodle shop you recommend?<br>
 - 元喜神
 - ジャン哲
 - おしたに
+- 島田製麺食堂
