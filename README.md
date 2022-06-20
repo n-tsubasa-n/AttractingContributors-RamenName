@@ -35,3 +35,4 @@ What is the name of the noodle shop you recommend?<br>
 - おしたに
 - 島田製麺食堂
 - ずんどう屋
+- 中華そばマルキ
