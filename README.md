@@ -34,3 +34,4 @@ What is the name of the noodle shop you recommend?<br>
 - ジャン哲
 - おしたに
 - 島田製麺食堂
+- ずんどう屋
