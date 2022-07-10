@@ -23,4 +23,4 @@ Tell me your favorite movie.
 - Inception
 - Kimino Suizo Wo Tabetai
 - Midsommar
-
+- Inglorious Bastards
