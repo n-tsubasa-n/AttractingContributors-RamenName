@@ -24,3 +24,5 @@ Tell me your favorite movie.
 - Kimino Suizo Wo Tabetai
 - Midsommar
 - Inglorious Bastards
+- EVANGELION:3.0+1.0 THRICE UPON A TIME
+
