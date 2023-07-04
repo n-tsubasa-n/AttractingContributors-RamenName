@@ -36,3 +36,4 @@ What is the name of the noodle shop you recommend?<br>
 - 島田製麺食堂
 - ずんどう屋
 - 中華そばマルキ
+- 富雄
